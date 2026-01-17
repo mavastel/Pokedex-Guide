@@ -1,14 +1,14 @@
 <h1>🧭 Pokémon Guide Web App</h1>
 
 <p>
-Responsive yapıda geliştirilmiş, Pokémon evrenini tanıtmayı amaçlayan bir web rehber uygulamasıdır. 
+A responsive web guide application developed to introduce the Pokémon universe.
 <br>
-Proje; modern web geliştirme pratiklerini öğrenmek ve kullanıcı odaklı arayüz tasarımı becerilerini geliştirmek amacıyla oluşturulmuştur.
+This project was created to learn modern web development practices and improve user-focused interface design skills.
 </p>
 
 <hr>
 
-<h2>📸 Proje Demo</h2>
+<h2>📸 Project Demo</h2>
 
 <p>
 <img src='./assets/podex-web.gif'></img>
@@ -16,37 +16,37 @@ Proje; modern web geliştirme pratiklerini öğrenmek ve kullanıcı odaklı ara
 
 <hr>
 
-<h2>🚀 Özellikler</h2>
+<h2>🚀 Features</h2>
 
 <ul>
-<li>📱 Tam responsive tasarım (mobil, tablet ve desktop uyumlu)</li>
-<li>🎨 Temiz ve kullanıcı dostu arayüz</li>
-<li>⚡ Dinamik içerik yönetimi (JavaScript ile)</li>
-<li>🧠 Temel Pokémon bilgilerini rehber formatında sunma</li>
-<li>🌐 Tarayıcı uyumlu ve hafif yapı</li>
+<li>📱 Fully responsive design (mobile, tablet, and desktop compatible)</li>
+<li>🎨 Clean and user-friendly interface</li>
+<li>⚡ Dynamic content management using JavaScript</li>
+<li>🧠 Presents basic Pokémon information in a guide format</li>
+<li>🌐 Lightweight and cross-browser compatible structure</li>
 </ul>
 
 <hr>
 
-<h2>🛠️ Kullanılan Teknolojiler</h2>
+<h2>🛠️ Technologies Used</h2>
 
 <ul>
-<li>HTML5 – Sayfa yapısı</li>
-<li>CSS3 – Responsive tasarım ve stillendirme</li>
-<li>JavaScript (Vanilla JS) – Dinamik etkileşimler</li>
+<li>HTML5 – Page structure</li>
+<li>CSS3 –Responsive design and styling</li>
+<li>JavaScript (Vanilla JS) – Dynamic interactions</li>
 </ul>
 
 <hr>
 
-<h2>🎯 Amaç</h2>
+<h2>🎯 Purpose</h2>
 
 <p>
-Bu proje; frontend geliştirme becerilerimi pekiştirmek, responsive tasarım prensiplerini uygulamak ve JavaScript ile etkileşimli web sayfaları geliştirme deneyimi kazanmak amacıyla hazırlanmıştır.
+This project was developed to strengthen my frontend development skills, apply responsive design principles, and gain hands-on experience building interactive web pages with JavaScript.
 </p>
 
 <hr>
 
-<h2>👩‍💻 Geliştirici</h2>
+<h2>👩‍💻 Developer</h2>
 
 <p>
 Sıla Nur Karagülle
@@ -57,5 +57,5 @@ HTML • CSS • JavaScript
 <hr>
 
 <p>
-⭐ Projeyi beğendiyseniz star vermeyi unutmayın!
+⭐ If you like this project, give it a star!
 </p>
