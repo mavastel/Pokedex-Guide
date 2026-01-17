@@ -8,6 +8,12 @@ This project was created to learn modern web development practices and improve u
 
 <hr>
 
+<h2>🌐 Live Demo</h2>
+
+[pokedox-guide.netlify.app](https://pokedox-guide.netlify.app/)
+
+<hr>
+
 <h2>📸 Project Demo</h2>
 
 <p>
